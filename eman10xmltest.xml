@@ -1,0 +1,16 @@
+<section>
+	<title>Emmanuel test</title>
+	<para/>
+	<para>
+		If anyone has issues about this test book, please contact me!
+	</para>
+	<para>
+		<email>etenorio@redhat.com</email>
+	</para>
+	<para>
+		<application>Application tag</application>
+	</para>
+	<para>
+		Use application tages for applications like <application>Red Hat Enterprise Virtualization Manager</application>
+	</para>
+</section>
